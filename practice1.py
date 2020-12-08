@@ -87,3 +87,4 @@ else:
     print("Sorry you are not in records\n")
 print("Thanks for visiting\n")
 print("****Stay healthy,Stay fit*****")
+print("bye")
